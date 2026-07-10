@@ -1,4 +1,3 @@
-Setup
 Subspace Relay uses Windows’ built‑in Bluetooth COM ports. To configure it:
 
 A. Open Windows Bluetooth COM Port Settings
