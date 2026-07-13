@@ -1,6 +1,6 @@
 
 $PortA = "COM [insert outgoing 1]"  
-$PortB = "COM9 [insert outgoing 2]"  
+$PortB = "COM [insert outgoing 2]"  
 
 function Open-Port($name) {
     try {
